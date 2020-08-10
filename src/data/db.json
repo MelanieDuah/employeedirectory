@@ -1,0 +1,27 @@
+[
+    {
+        "firstname": "John",
+        "lastname": "Dean",
+        "department": "Sales"
+    },
+    {
+        "firstname": "Akwasi",
+        "lastname": "Nkase",
+        "department": "Engineer"
+    },
+    {
+        "firstname": "Vitaly",
+        "lastname": "Do",
+        "department": "legal"
+    },
+    {
+        "firstname": "Abrafi",
+        "lastname": "Okoto",
+        "department": "Manager"
+    },
+    {
+        "firstname": "Achiaa",
+        "lastname": "Kosoya",
+        "department": "Engineer"
+    }
+]
