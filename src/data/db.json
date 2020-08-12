@@ -7,12 +7,12 @@
     {
         "firstname": "Akwasi",
         "lastname": "Nkase",
-        "department": "Human resourse"
+        "department": "Human Resource"
     },
     {
         "firstname": "Vitaly",
         "lastname": "Do",
-        "department": "legal"
+        "department": "Legal"
     },
     {
         "firstname": "Abrafi",
@@ -22,13 +22,13 @@
     {
         "firstname": "Achiaa",
         "lastname": "Kosoya",
-        "department": "Human resourse"
+        "department": "Human Resource"
     },
     {
        
         "firstname": "Don",
         "lastname": "Mark",
-        "department": "Human resourse"
+        "department": "Human Resource"
     },
     {
         "firstname": "jay",
@@ -38,7 +38,7 @@
     {
         "firstname": "Manman",
         "lastname": "Yee",
-        "department": "legal"
+        "department": "Legal"
     },
     {
         "firstname": "Dee",
@@ -48,6 +48,6 @@
     {
         "firstname": "Fen",
         "lastname": "Man",
-        "department": "Human resourse"
+        "department": "Human Resource"
     }
 ]
